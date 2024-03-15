@@ -1,0 +1,13 @@
+.row{
+  width: 1320px;
+  margin: auto;
+  display: flex;
+  
+}
+.cartItems{
+  flex-basis: 23%;
+  margin: 1%;
+    background-color: aquamarine;
+    height: 200px
+    ;
+}
